@@ -1,4 +1,4 @@
-# EDA-using-Python-and-SQL
+# EDA-Ecommerce-Python-and-SQL
 This repository contains the explanatory data analysis summer sale of clothes of Ecommerce website 'Wish' which is done using python numpy, pandas, matplotlib, seaborn and pandasql.
 
 ![Wish com-logo-1024x538](https://user-images.githubusercontent.com/99166745/177133908-77bc0e86-1aca-4161-a93d-7eeb2a70b3d6.jpeg)
